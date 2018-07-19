@@ -1,0 +1,7 @@
+TODO Application
+
+Simple TODO list application using Python Flask framework.
+
+* Users should be able to create todo tasks wth a title and description.
+* Included Dockerfile for building docker container image.
+* Includes some basic unit test case examples.
