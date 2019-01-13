@@ -14,7 +14,7 @@ WORKDIR /todo-app
 RUN pip install -r requirements.txt
 ENTRYPOINT ["python"]
 CMD ["app.py"]
-EXPOSE 6488
+EXPOSE 9000
 
 
 

@@ -130,5 +130,4 @@ if __name__ == '__main__':
 #    else:
 #       objstr.create_container(app.config['CONTAINER'])
 
-    app.run(host=app.config['HOST'], port=6488)
-
+    app.run(host=app.config['HOST'], port=9000)
